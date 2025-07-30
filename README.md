@@ -5,7 +5,7 @@
 
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/sing-box/refs/heads/main/sing-box.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/block_censys_ips.sh)
 ```
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/sing-box/refs/heads/main/sing-box.sh)
