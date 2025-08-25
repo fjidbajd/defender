@@ -7,6 +7,11 @@
 ```
 curl -sS -O https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/block_censys_ips.sh && chmod +x block_censys_ips.sh && ./block_censys_ips.sh
 ```
+
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/cloudflare-only.sh)
+```
+
+```
+bash https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/ipblocker.sh
 ```
