@@ -13,5 +13,5 @@ bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/
 ```
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/cloudflare-only.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/ipblocker.sh)
 ```
