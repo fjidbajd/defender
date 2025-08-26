@@ -1,5 +1,5 @@
 # defender
-一键屏蔽常见网络测绘+只允许cloudflare cdn ip 回源
+一键屏蔽常见网络测绘+只允许cloudflare cdn ip 回源+自动下载黑名单IP并自动屏蔽
 
 ## 使用方法
 
