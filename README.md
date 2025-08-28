@@ -34,5 +34,5 @@ apt-get install iptables ipset cron
 ```
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/ipblocker.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/fjidbajd/defender/refs/heads/main/autobanblackip.sh)
 ```
